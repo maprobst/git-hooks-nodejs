@@ -29,7 +29,7 @@
     },
     "parserPreset": {
       "parserOpts": {
-        "issuePrefixes": ["PROJ-"]
+        "issuePrefixes": ["CHANGE-"]
       }
     }
   }
